@@ -12,7 +12,7 @@ const Logo = ({ size = '50px' }: ILogoProps) => {
         height: size,
       }}
     >
-      <ImBook fontSize={50} />
+      <ImBook fontSize={size} />
     </Sty.Wrapper>
   );
 };
