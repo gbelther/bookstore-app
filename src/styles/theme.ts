@@ -10,10 +10,14 @@ export const theme = {
   colors: {
     primary: '#B800A7',
     secondary: '#0013CF',
+    grayLight: '#EEEEEE',
   },
   transition: {
     slow: '0.6s ease-in-out',
     default: '0.3s ease-in-out',
     fast: '0.1s ease-in-out',
+  },
+  borderRadius: {
+    small: '4px',
   },
 };
