@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.section`
-  width: auto;
+  width: 100%;
   position: relative;
 `;
 
