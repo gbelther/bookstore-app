@@ -11,6 +11,7 @@ export const theme = {
     primary: '#B800A7',
     secondary: '#0013CF',
     grayLight: '#EEEEEE',
+    black: '#2b2b2b',
   },
   transition: {
     slow: '0.6s ease-in-out',
